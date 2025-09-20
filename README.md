@@ -23,14 +23,6 @@ Um projeto simples e estiloso para treinar HTML, CSS e JavaScript, com foco na c
 ┗ script.js
 
 
-## Demonstração
-
-### 🔒 Modo Escuro
-![Modo Escuro](./assets/bg-mobile.jpg)
-
-### 🌞 Modo Claro
-![Modo Claro](./assets/bg-desktop-light.jpg)
-
 ## 🚀 Como Usar
 
 1. Clone este repositório:
