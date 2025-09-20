@@ -1,6 +1,9 @@
 # 🌗 DevLinks - Switch de Tema
 
 Um projeto simples e estiloso para treinar HTML, CSS e JavaScript, com foco na criação de um **switch de tema** (modo claro e escuro) e no uso de variáveis CSS.
+Foi um projeto de aprendizagem pela rocketseat.
+
+<img width="1920" height="1080" alt="Cover" src="https://github.com/user-attachments/assets/c3c0f786-f9e3-4871-a33f-cbf043c04b04" />
 
 ## Funcionalidades
 
