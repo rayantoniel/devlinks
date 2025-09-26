@@ -30,4 +30,4 @@ Foi um projeto de aprendizagem pela rocketseat.
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/devlinks-theme-switch.git
+   git clone https://github.com/rayantoniel/devlinks.git
